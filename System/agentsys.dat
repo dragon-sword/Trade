@@ -1,0 +1,5 @@
+battery capacity[Wh]        :    1000
+Natural Discharge Loss[%]   :    0.99
+Charge Loss[%]              :    0.95
+Discharge Loss[%]   :    0.95
+Power Generation Scale[kW] :    3.5
